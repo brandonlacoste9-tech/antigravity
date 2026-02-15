@@ -1,2 +1,2 @@
 # antigravity
-studio
+AI studio
