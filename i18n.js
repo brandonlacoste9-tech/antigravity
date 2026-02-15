@@ -20,13 +20,13 @@ const TRANSLATIONS = {
         bootKernel: '> KERNEL_LEVEL_ACCESS: ENABLED',
         bootWelcome: 'WELCOME TO THE VOID, COMMANDER.',
         footerDisclaimer: 'Disclaimer: Antigravity is an autonomous agentic system. By using this software, you agree that the developers and owners are NOT liable for any damages, automated actions, or financial losses initiated via the shell gateway. Use with wisdom and oversight.',
-        navCore: 'Core'
+        navCore: 'AI Studio'
     },
     fr: {
         navVision: 'Vision',
         navCapabilities: 'Capacités',
         navPricing: 'Tarifs',
-        navCore: 'Noyau',
+        navCore: 'Studio IA',
         heroBadge: 'Antigravity — Le Meilleur Studio d\'IA Agentique',
         heroTitle: 'L\'avenir de l\'ingénierie <span class="gradient-text">autonome</span>',
         heroSubtitle: 'Antigravity n\'est pas seulement une IA. C\'est un agent spécialisé qui construit, débogue et déploie des infrastructures entières pendant que vous dormez.',
@@ -66,13 +66,13 @@ const TRANSLATIONS = {
         bootKernel: '> ACCESO NIVEL KERNEL: ACTIVADO',
         bootWelcome: 'BIENVENIDO AL VACÍO, COMANDANTE.',
         footerDisclaimer: 'Descargo de responsabilidad: Antigravity es un sistema agéntico autónomo. Al usar este software, usted acepta que los desarrolladores y propietarios NO son responsables de ningún daño o pérdida financiera. Úselo con supervisión.',
-        navCore: 'Núcleo'
+        navCore: 'Studio IA'
     },
     pt: {
         navVision: 'Visão',
         navCapabilities: 'Capacidades',
         navPricing: 'Preços',
-        navCore: 'Núcleo',
+        navCore: 'Studio IA',
         heroBadge: 'Antigravity — O Melhor Estúdio de IA Agêntica',
         heroTitle: 'O futuro da engenharia <span class="gradient-text">autônoma</span>',
         heroSubtitle: 'Antigravity não é apenas uma IA. É um agente especializado que constrói, depura e implanta infraestruturas inteiras enquanto você dorme.',
@@ -112,7 +112,7 @@ const TRANSLATIONS = {
         bootKernel: '> الوصول إلى مستوى النواة: مفعل',
         bootWelcome: 'مرحباً بك في الفراغ، أيها القائد.',
         footerDisclaimer: 'إخلاء المسؤولية: أنتي جرافتي هو نظام عميل مستقل. باستخدام هذا البرنامج، فإنك توافق على أن المطورين والمالكين لا يتحملون المسؤولية عن أي أضرار أو خسائر مالية ناتجة عن استخدامه. استخدمه بحكمة وإشراف.',
-        navCore: 'النواة'
+        navCore: 'ستوديو الذكاء'
     }
 };
 
